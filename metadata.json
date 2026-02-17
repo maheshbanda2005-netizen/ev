@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Eva Electrical - EV Charging Solutions",
+  "description": "A comprehensive EV management and charging station booking platform featuring trip planning, vehicle management, and an AI-powered charging assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
